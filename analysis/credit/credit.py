@@ -2,9 +2,11 @@
 analyze credit dataset from kaggle & yhat/kdnugget tutorial
 
 works for data set with reasonable number of variables (not too large) as chartsare used for data exploration.
+reference:
+1.  http://www.kaggle.com/c/GiveMeSomeCredit
+2.  http://nbviewer.ipython.org/github/yhat/DataGotham2013/blob/master/notebooks/2%20-%20Case%20Study.ipynb
 
 to-do
-
 8.  make the x-axis for run_binning more meaningful, like hist()
 6.  add feature correction: i.e. debt_ratio??? log_scale???
 importance of variables
